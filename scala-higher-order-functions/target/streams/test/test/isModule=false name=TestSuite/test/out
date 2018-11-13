@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- map2 with add[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- zip test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- zip test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- flatten test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- buildList test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- mapList test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- partition test 1 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  (List(),List(1)) did not equal (List(2, 4, 6),List(1, 3, 5)) (Tests.scala:37)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- partition test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- partition test 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- merge test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort test 1[0m[0m

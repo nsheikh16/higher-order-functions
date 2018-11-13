@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-higher-order-functions/src/test/scala/Tests.scala:51:18: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method lt in class TestSuite of type (x: Int, y: Int)Boolean[0m
+[0m[[0m[31merror[0m] [0m[0mand  method lt in class TestSuite of type (x: Int, y: Int)Boolean[0m
+[0m[[0m[31merror[0m] [0m[0mmatch expected type (?, ?) => Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(merge(lt, List(1,3,5), List(0,6,10)) ==[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-higher-order-functions/src/test/scala/Tests.scala:58:17: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method lt in class TestSuite of type (x: Int, y: Int)Boolean[0m
+[0m[[0m[31merror[0m] [0m[0mand  method lt in class TestSuite of type (x: Int, y: Int)Boolean[0m
+[0m[[0m[31merror[0m] [0m[0mmatch expected type (?, ?) => Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(sort(lt, List(5,1,2,3,4,5)) ==[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-higher-order-functions/src/test/scala/Tests.scala:55:6: method lt is defined twice;[0m
+[0m[[0m[31merror[0m] [0m[0m  the conflicting method lt was defined at line 48:7[0m
+[0m[[0m[31merror[0m] [0m[0m def lt(x:Int, y:Int): Boolean = x<y[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-higher-order-functions/src/main/scala/Main.scala:25:48: not found: type C[0m
+[0m[[0m[31merror[0m] [0m[0m  def help[A](l1: List[A], l2: List[A]) : List[C] = l1 match{[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
